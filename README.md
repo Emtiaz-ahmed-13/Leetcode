@@ -6,15 +6,18 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
