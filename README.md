@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0002-add-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -104,6 +105,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Breadth-First Search
 |  |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
