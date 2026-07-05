@@ -59,6 +59,7 @@
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0068-text-justification) |
+| [0128-longest-consecutive-sequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -142,6 +144,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
