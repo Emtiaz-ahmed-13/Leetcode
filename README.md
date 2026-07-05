@@ -8,6 +8,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -19,6 +20,7 @@
 | [0006-zigzag-conversion](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
