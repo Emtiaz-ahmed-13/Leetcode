@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -59,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0141-linked-list-cycle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
