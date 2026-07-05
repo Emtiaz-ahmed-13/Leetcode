@@ -59,6 +59,7 @@
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
