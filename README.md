@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
