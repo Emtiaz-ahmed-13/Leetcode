@@ -53,6 +53,7 @@
 | [0011-container-with-most-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0068-text-justification) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -139,6 +140,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Recursion
@@ -168,5 +170,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
