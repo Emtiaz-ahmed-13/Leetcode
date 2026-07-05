@@ -8,6 +8,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -42,6 +44,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -139,4 +142,12 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
