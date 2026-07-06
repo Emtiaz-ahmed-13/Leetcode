@@ -68,6 +68,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0228-summary-ranges) |
+| [1288-remove-covered-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -127,6 +128,7 @@
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
+| [1288-remove-covered-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
