@@ -54,6 +54,7 @@
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0202-happy-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
