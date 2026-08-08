@@ -28,6 +28,7 @@
 | [0290-word-pattern](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -210,6 +212,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0155-min-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
