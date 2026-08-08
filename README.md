@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -75,6 +76,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0228-summary-ranges) |
+| [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -143,6 +146,7 @@
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -268,4 +272,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0686-repeated-string-match) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
