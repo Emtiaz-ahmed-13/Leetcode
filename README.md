@@ -77,6 +77,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -103,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -220,11 +222,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
