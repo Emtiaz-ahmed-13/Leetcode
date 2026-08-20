@@ -32,6 +32,7 @@
 | [0076-minimum-window-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -206,6 +207,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -278,6 +280,7 @@
 | [0207-course-schedule](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -331,6 +335,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,6 +345,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
