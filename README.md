@@ -265,6 +265,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0686-repeated-string-match) |
 ## Simulation
 |  |
@@ -281,6 +282,7 @@
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -336,6 +338,7 @@
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +349,7 @@
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -366,4 +370,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
