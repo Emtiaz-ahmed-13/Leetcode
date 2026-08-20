@@ -60,6 +60,7 @@
 | [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -260,6 +261,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
