@@ -30,6 +30,7 @@
 | [0290-word-pattern](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -112,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -177,6 +179,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
