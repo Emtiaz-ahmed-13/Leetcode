@@ -46,6 +46,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0338-counting-bits) |
@@ -70,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -390,4 +392,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
