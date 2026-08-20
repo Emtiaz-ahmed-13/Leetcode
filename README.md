@@ -200,6 +200,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0994-rotting-oranges) |
@@ -268,6 +269,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -318,11 +320,13 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
