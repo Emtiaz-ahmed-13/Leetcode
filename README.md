@@ -284,6 +284,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -342,6 +343,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -355,6 +357,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -386,4 +389,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
