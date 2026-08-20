@@ -39,6 +39,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
