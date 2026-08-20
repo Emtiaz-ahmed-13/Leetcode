@@ -25,6 +25,7 @@
 | [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
@@ -75,6 +76,7 @@
 | [0011-container-with-most-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0068-text-justification) |
@@ -107,6 +109,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -160,6 +163,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
