@@ -336,6 +336,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
