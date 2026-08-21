@@ -13,6 +13,7 @@
 | [0141-linked-list-cycle](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -189,6 +190,7 @@
 | [0049-group-anagrams](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
@@ -245,6 +247,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -434,4 +438,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
