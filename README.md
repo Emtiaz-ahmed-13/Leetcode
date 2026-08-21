@@ -99,6 +99,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0228-summary-ranges) |
+| [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
@@ -134,6 +135,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -163,6 +166,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0383-ransom-note) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -185,6 +189,7 @@
 | [0049-group-anagrams](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -240,6 +245,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -420,4 +426,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0039-combination-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Emtiaz-ahmed-13/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
